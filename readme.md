@@ -26,9 +26,9 @@
 
 Тут можно ознакомиться с технологиями и инструментами которые использованы в сборщике
 
-Название        | Версия 
-----------------|--------
-webpack         | 4.44.2
-handlebars      | 4.7.6
-sass            | 1.26.10
-normalize.css   | 8.0.1
+Название                                                   | Версия 
+-----------------------------------------------------------|--------
+[webpack](https://webpack.js.org/concepts/)                | 4.44.2
+[handlebars](https://handlebarsjs.com/installation/)       | 4.7.6
+[sass](https://sass-scss.ru/install/)                      | 1.26.10
+[normalize.css](https://necolas.github.io/normalize.css/)  | 8.0.1
